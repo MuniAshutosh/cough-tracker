@@ -1,0 +1,16 @@
+{
+  "name": "Cough Tracker",
+  "short_name": "CoughTrack",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196F3",
+  "description": "Background cough tracking.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/192/192168.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
